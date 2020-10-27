@@ -1,3 +1,5 @@
 tiedoston 1 tekstiä
 
 lisää tekstiä
+
+muutos git add -p -komentoa varten
