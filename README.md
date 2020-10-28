@@ -4,3 +4,4 @@
 
 [![codecov](https://codecov.io/gh/Themis1/ohtu-2020-viikko1/branch/main/graph/badge.svg?token=FP8WJQXGVR)](undefined)
 
+https://github.com/Themis1/ohtu-s2020
