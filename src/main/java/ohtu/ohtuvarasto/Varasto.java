@@ -64,7 +64,7 @@ public class Varasto {
     public double otaVarastosta(double maara) {
         if (maara < 0) // virhetilanteessa voidaan tehdä 
         {
-            return 1.0;   // tällainen pikapoistuminenkin! Muokattu pois nollasta!!!!!!!!!!!!!!!!!!!
+            return 1.0;   // tällainen pikapoistuminenkin!
         }
         if (maara > saldo) {          // annetaan mitä voidaan
             double kaikkiMitaVoidaan = saldo;
